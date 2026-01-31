@@ -1,8 +1,16 @@
-# 2DO Bimestre
+# 2DO Bimestre MI CUADERNO
 
 ## Matias Quinchiguano
 
+## Programacion II
+
 ## GR3SW
+
+## GITHUB
+
+Github con las imagenes del Cuaderno
+
+link Github: [GITHUB LINK NOTES](https://github.com/matiSae/QuinchiguanoNotes2DOBimestre)
 
 ## TEMA 1
 
